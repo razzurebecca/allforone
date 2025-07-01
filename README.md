@@ -50,7 +50,7 @@
   <footer id="contacto" class="bg-gray-700 py-6">
     <div class="container mx-auto px-4 text-center">
       <p>© 2025 One For All. Todos los derechos reservados.</p>
-      <p class="mt-2">Contacto: <a href="mailto:tuemail@example.com" class="text-yellow-400 hover:underline">tuemail@example.com</a></p>
+      <p class="mt-2">Contacto: <a href="razurebecca@gmail.com" class="text-yellow-400 hover:underline">razurebecca@gmail.com</a></p>
     </div>
   </footer>
 </body>
